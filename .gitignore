@@ -1,0 +1,9 @@
+__pycache__/dataloader.cpython-36.pyc
+__pycache__/dcgan_models.cpython-36.pyc
+__pycache__/dcgan.cpython-36.pyc
+__pycache__/generate_h5.cpython-36.pyc
+__pycache__/generate_h5.cpython-37.pyc
+__pycache__/generate_pix_dataset.cpython-36.pyc
+__pycache__/ot_gan.cpython-36.pyc
+__pycache__/utils.cpython-36.pyc
+.vscode/settings.json
