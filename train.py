@@ -82,7 +82,7 @@ def train_pix2pix():
     copyfile(join("pix2pix/checkpoints", args.dataset_name+"_pix2pix", "latest_net_G.pth"), join(args.models_save_dir,args.dataset_name+"_pix2pix"))
 
 if __name__ == '__main__':
-    # preprocess_dataset()
-    # train_dcgan()
-    # prepare_pix2pix_dataset()
+    preprocess_dataset()
+    train_dcgan()
+    prepare_pix2pix_dataset()
     train_pix2pix()
