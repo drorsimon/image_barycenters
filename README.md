@@ -13,3 +13,8 @@ By default, the results will be saved to the "results" folder. Each output conta
 1. Optimal transport
 2. Our method
 3. GAN linear interpolation
+
+# Some samples:
+![](results/7166071_8036322.png)
+![](results/7887030_7943142.png)
+![](results/7895071_8031366.png)

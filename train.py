@@ -34,7 +34,7 @@ def preprocess_dataset():
     if not os.path.exists(h5_path):
         generate_h5(args.dataset_base_dir, args.dataset_h5_save_dir, args.dcgan_image_size, args.dataset_name)
 
-def train_dcgan(test_encoder=True):
+def train_gan(test_encoder=True):
     dcgan_args = {'latent_dim':args.dcgan_latent_size, 
                 'num_filters':args.dcgan_num_filters, 
                 'batch_size':args.dcgan_batch_size,
@@ -83,6 +83,6 @@ def train_pix2pix():
 
 if __name__ == '__main__':
     preprocess_dataset()
-    train_dcgan()
+    train_gan()
     prepare_pix2pix_dataset()
     train_pix2pix()
