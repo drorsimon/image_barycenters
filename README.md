@@ -15,6 +15,9 @@ If you use our work, please cite it:
 1. Download your data to the dataset folder. You can use the provided download script to start off with the Zappos50K dataset.
 2. Run train.py
 
+# Using Trained models
+The networks folder contains a link for you to download models trained on the Zappos50K dataset.
+
 # Creating image transformations
 Run generate_morph.py. If you do not mention specific images, random samples will be chosen from the provided dataset.
 

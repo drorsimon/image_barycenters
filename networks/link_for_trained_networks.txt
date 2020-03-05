@@ -1,0 +1,4 @@
+1. Download trained networks (for Zappos50K) here:
+https://drive.google.com/file/d/1HxmgJ-zb6Gkoa_BLjl0Cj00hEnacp_dn/view?usp=sharing
+
+2. Extract the contents of the file into this folder.
