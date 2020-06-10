@@ -3,11 +3,12 @@ This repository can be used to reproduced the results reported in our [paper](ht
 
 If you use our work, please cite it:
 ```
-@article{simon2019barycenters,
-  title={Barycenters of Natural Images - Constrained Wasserstein Barycenters for Image Morphing},
-  author={Simon, Dror and Aberdam, Aviad},
-  journal={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2020}
+@InProceedings{Simon_2020_CVPR,
+author = {Simon, Dror and Aberdam, Aviad},
+title = {Barycenters of Natural Images Constrained Wasserstein Barycenters for Image Morphing},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
 }
 ```
 
